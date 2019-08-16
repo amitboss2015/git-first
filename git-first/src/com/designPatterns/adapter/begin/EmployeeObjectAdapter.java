@@ -1,4 +1,4 @@
-package com.amit.designPatterns.adapter;
+package com.designPatterns.adapter.begin;
 
 /**
  * An object adapter. Using composition to translate interface

@@ -1,7 +1,8 @@
-package com.amit.designPatterns.adapter;
+package com.designPatterns.adapter.end;
 
 /**
  * Target interface required by new client code
+ * Target Interface
  */
 public interface Customer {
 
